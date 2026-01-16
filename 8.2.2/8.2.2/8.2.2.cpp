@@ -11,6 +11,8 @@
 #include <algorithm>
 #include <cmath>
 
+////
+
 #define MAX_LOADSTRING 100
 
 HINSTANCE hInst;
